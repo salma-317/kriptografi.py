@@ -1,0 +1,2 @@
+jika menggunakan modulo, index pada alphabet dibatasi sebanya 26 huruf jadi jika lebih dari 26 maka bisa mengulang dari index alphabet awal. sedangkan jika tanpa modulo,
+alphabet tidak dibatasi (hanya sampai alphabet terakhir). jika bergeser lebih dari index alphabet terakhir (z) maka akan error pada halaman kerja.
